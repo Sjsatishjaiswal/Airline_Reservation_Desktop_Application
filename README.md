@@ -1,7 +1,11 @@
 # Airline_Reservation_Desktop_Application
+
 An airline reservation system project in Java is a computer program that allows airlines to store and manage reservations made by passengers. 
+
 It typically includes a user interface that allows passengers to search for flights, and make reservations, as well as a backend database to store information about flights, passengers, and reservations.
+
 In a Java-based airline reservation system project, the system would be implemented using the Java programming language. It might also make use of other technologies, such as databases (e.g. MySQL).
+
 Overall, the goal of an airline reservation system project is to create a functional and user-friendly system that helps airlines manage their operations and enables passengers to easily book flights and manage their travel plans.
 
 # Demo Screenshots
